@@ -6,4 +6,6 @@ I'm a really cool guy!
 
 This is a [link to google](http://google.com).
 
-In VS-Code, press ctrl+shift+v to preview
+In VS-Code, press ctrl+shift+v to preview.
+
+In VS-Code to go to light theme, push CTRL+K, then CTRL+T
